@@ -1,0 +1,38 @@
+{
+    "appid": "",
+    "interval": 0.5,
+    "rpc": {
+        "discord": {
+            "details": {
+                "group": "",
+                "channel": "",
+                "user": ""
+            },
+            "startTimestamp": true,
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": false,
+            "smallImageText": false,
+            "joinButton": false,
+            "spectateButton": false
+        },
+        "sleep": {
+            "details": "",
+            "state": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "endTimestamp": true,
+            "joinButton": false,
+            "spectateButton": true
+        }
+    },
+    "sleepTime": [
+        [ 22, 7  ],
+        [ 22, 7  ],
+        [ 22, 7  ],
+        [ 22, 7  ],
+        [ 22, 7  ],
+        [ 23, 10 ],
+        [ 23, 10 ]
+    ]
+}
