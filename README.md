@@ -1,8 +1,8 @@
 [![Discord](https://img.shields.io/discord/449576301997588490.svg?label=Discord&logo=discord)]()
-[![David](https://img.shields.io/david/Gleeny/Discord-Discord-RPC.svg?logo=javascript&logoColor=white)](https://david-dm.org/Looney-Dev/Discord-Rich-Presence)
-[![GitHub Issues](https://img.shields.io/github/issues/Gleeny/Discord-Discord-RPC.svg?logo=github&logoColor=white)](https://github.com/Looney-Dev/Discord-Rich-Presence/issues)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Gleeny/Discord-Discord-RPC.svg?logo=github&logoColor=white)](https://github.com/Looney-Dev/Discord-Rich-Presence/commit/master)
-[![License](https://img.shields.io/github/license/Gleeny/Discord-Discord-RPC.svg?label=License&logo=github&logoColor=white)](./LICENSE)
+[![David](https://img.shields.io/david/Looney-Dev/Discord-Rich-Presence.svg?logo=javascript&logoColor=white)](https://david-dm.org/Looney-Dev/Discord-Rich-Presence)
+[![GitHub Issues](https://img.shields.io/github/issues/Looney-Dev/Discord-Rich-Presence.svg?logo=github&logoColor=white)](https://github.com/Looney-Dev/Discord-Rich-Presence/issues)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Looney-Dev/Discord-Rich-Presence.svg?logo=github&logoColor=white)](https://github.com/Looney-Dev/Discord-Rich-Presence/commit/master)
+[![License](https://img.shields.io/github/license/Looney-Dev/Discord-Rich-Presence.svg?label=License&logo=github&logoColor=white)](./LICENSE)
 
 # Discord-Rich-Presence
 
