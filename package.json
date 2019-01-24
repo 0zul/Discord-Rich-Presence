@@ -1,0 +1,34 @@
+{
+    "dependencies": {
+      "discord-rpc": "^3.0.0",
+      "fs": "0.0.1-security",
+      "winprocess": "0.0.2"
+    },
+    "name": "Discord-Rich-Presence",
+    "description": "Discord Rich Presence is a Rich Presence (RPC) client that show the channel, user or group you're talking to. You don't want people to think you have secrets, do you?",
+    "version": "1.0.0",
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Looney-Dev/Discord-Rich-Presence.git"
+    },
+    "keywords": [
+      "discord",
+      "discord",
+      "rpc",
+      "rich-presence",
+      "discord-rpc"
+    ],
+    "author": "Jimmy/Looney",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Looney-Dev/Discord-Rich-Presence/issues"
+    },
+    "homepage": "https://github.com/Looney-Dev/Discord-Rich-Presence#readme"
+  }
+  
