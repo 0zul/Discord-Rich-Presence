@@ -1,0 +1,38 @@
+{
+    "appid": "12345678901234567",
+    "interval": 0.5,
+    "rpc": {
+        "discord": {
+            "details": {
+                "group": "Chatting to group",
+                "channel": "Chatting in channel",
+                "user": "Chating to user"
+            },
+            "startTimestamp": true,
+            "largeImageKey": "canary",
+            "largeImageText": "DiscordCanary.exe",
+            "smallImageKey": false,
+            "smallImageText": false,
+            "joinButton": false,
+            "spectateButton": false
+        },
+        "sleep": {
+            "details": "Currently sleeping.",
+            "state": "Bed is full",
+            "largeImageKey": "person",
+            "largeImageText": "Dis' me.",
+            "endTimestamp": true,
+            "joinButton": false,
+            "spectateButton": true
+        }
+    },
+    "sleepTime": [
+        [ 22, 7  ],
+        [ 22, 7  ],
+        [ 22, 7  ],
+        [ 22, 7  ],
+        [ 22, 7  ],
+        [ 23, 10 ],
+        [ 23, 10 ]
+    ]
+}
