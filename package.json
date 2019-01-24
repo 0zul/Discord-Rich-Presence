@@ -1,7 +1,7 @@
 {
     "dependencies": {
       "discord-rpc": "^3.0.0",
-      "fs": "0.0.1-security",
+      "fs": "0.0.2",
       "winprocess": "0.0.2"
     },
     "name": "Discord-Rich-Presence",
