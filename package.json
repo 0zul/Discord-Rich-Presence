@@ -2,7 +2,7 @@
     "dependencies": {
       "discord-rpc": "^3.0.0",
       "fs": "0.0.2",
-      "winprocess": "0.0.2"
+      "winprocess": "0.0.3"
     },
     "name": "Discord-Rich-Presence",
     "description": "Discord Rich Presence is a Rich Presence (RPC) client that show the channel, user or group you're talking to. You don't want people to think you have secrets, do you?",
