@@ -4,6 +4,8 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Looney-Dev/Discord-Rich-Presence.svg?logo=github&logoColor=white)](https://github.com/Looney-Dev/Discord-Rich-Presence/commit/master)
 [![License](https://img.shields.io/github/license/Looney-Dev/Discord-Rich-Presence.svg?label=License&logo=github&logoColor=white)](./LICENSE)
 
+# Not maintained anymore.
+
 # Discord-Rich-Presence
 
 Discord Rich Presence is a Rich Presence (RPC) client that show the channel, user or group you're talking to. You don't want people to think you have secrets, do you?
